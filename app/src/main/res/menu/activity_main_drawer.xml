@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/download_manager"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Download Manager" />
+        <item
+            android:id="@+id/async_fragment_download"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="AsyncTask Fragment Download" />
+    </group>
+
+</menu>
